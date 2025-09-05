@@ -1,0 +1,4 @@
+ezc3d
+pyqtgraph
+PyQt5
+numpy
